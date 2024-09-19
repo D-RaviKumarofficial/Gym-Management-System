@@ -20,12 +20,12 @@
                                         <div class="main-menu main-menu2 text-center">
                                             <nav>
                                                 <ul>
-                                                    <li><a href="index.html">Home</a></li>
-                                                    <li><a href="about.html">About</a></li>
-                                                    <li><a href="courses.html">Courses</a></li>
-                                                    <li><a href="pricing.html">Pricing</a></li>
-                                                    <li><a href="gallery.html">Gallery</a></li>
-                                                    <li><a href="contact.html">Contact</a></li>
+                                                    <li><a href="index.php">Home</a></li>
+                                                    <li><a href="about.php">About</a></li>
+                                                    <li><a href="courses.php">Courses</a></li>
+                                                    <li><a href="pricing.php">Pricing</a></li>
+                                                    <li><a href="gallery.php">Gallery</a></li>
+                                                    <li><a href="contact.php">Contact</a></li>
                                                 </ul>
                                             </nav>
                                         </div>   
