@@ -6,7 +6,7 @@
                     <div class="menu-wrapper d-flex align-items-center justify-content-between">
                         <!-- Logo -->
                         <div class="logo">
-                            <a href="index.html"><img src="img/TT.png" alt=""></a>
+                            <a href="index.html"><img src="img/logo.jpeg" width=100 height=100 alt=""></a>
                         </div>
                         <!-- Main-menu -->
                         <div class="main-menu f-right d-none d-lg-block">

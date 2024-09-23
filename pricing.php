@@ -74,8 +74,8 @@
                                 <img src="assets/img/icon/price.svg" alt="">
                             </div>
                             <div class="properties__caption">
-                                <span class="month">6 month</span>
-                                <p class="mb-25">$30/m  <span>(Single class)</span></p>
+                                <span class="month">one month</span>
+                                <p class="mb-25"> ₹ 1000  <span>(Single class)</span></p>
                                 <div class="single-features">
                                     <div class="features-icon">
                                         <img src="assets/img/icon/check.svg" alt="">
@@ -116,7 +116,6 @@
                                         <p>Month to mouth</p>
                                     </div>
                                 </div>
-                                <a href="#" class="border-btn border-btn2">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -129,7 +128,7 @@
                             </div>
                             <div class="properties__caption">
                                 <span class="month">6 month</span>
-                                <p class="mb-25">$30/m  <span>(Single class)</span></p>
+                                <p class="mb-25"> ₹ 5500  <span>(Single class)</span></p>
                                 <div class="single-features">
                                     <div class="features-icon">
                                         <img src="assets/img/icon/check.svg" alt="">
@@ -170,7 +169,6 @@
                                         <p>Month to mouth</p>
                                     </div>
                                 </div>
-                                <a href="#" class="border-btn border-btn2">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -183,7 +181,7 @@
                             </div>
                             <div class="properties__caption">
                                 <span class="month">6 month</span>
-                                <p class="mb-25">$30/m  <span>(Single class)</span></p>
+                                <p class="mb-25">₹ 11000 <span>(Single class)</span></p>
                                 <div class="single-features">
                                     <div class="features-icon">
                                         <img src="assets/img/icon/check.svg" alt="">
@@ -224,7 +222,6 @@
                                         <p>Month to mouth</p>
                                     </div>
                                 </div>
-                                <a href="#" class="border-btn border-btn2">Join Now</a>
                             </div>
                         </div>
                     </div>
@@ -238,37 +235,36 @@
         <div class="container">
             <div class="row justify-content-between">
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-40">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".1s">
                         <div class="features-icon">
                             <img src="assets/img/icon/icon1.svg" alt="">
                         </div>
                         <div class="features-caption">
                             <h3>Location</h3>
-                            <p>You’ll look at graphs and charts in Task One, how to approach </p>
+                            <p>Cuddalore</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-40">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
                         <div class="features-icon">
                             <img src="assets/img/icon/icon2.svg" alt="">
                         </div>
                         <div class="features-caption">
                             <h3>Phone</h3>
-                            <p>(90) 277 278 2566</p>
-                            <p>  (78) 267 256 2578</p>
+                            <p>+91 9944533197</p>
+                            <p>+91 9894966055</p>
                         </div>
                     </div>
                 </div>
                 <div class="col-xl-3 col-lg-4 col-md-6 col-sm-8">
-                    <div class="single-services mb-40">
+                    <div class="single-services mb-40 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".4s">
                         <div class="features-icon">
                             <img src="assets/img/icon/icon3.svg" alt="">
                         </div>
                         <div class="features-caption">
                             <h3>Email</h3>
-                            <p>tuitionstonight@gmail.com</p>
-                            <p>tutifyy@gmail.com</p>
+                            <p>Santha@gmail.com</p>
                         </div>
                     </div>
                 </div>

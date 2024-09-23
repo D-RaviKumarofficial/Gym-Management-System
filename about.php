@@ -57,45 +57,7 @@
     </div>
     <!-- Hero End -->
     <!--? Team -->
-    <section class="team-area pt-80">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" >
-                        <div class="cat-icon">
-                            <img src="assets/img/gallery/team1.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Body Building</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="cat-icon">
-                            <img src="assets/img/gallery/team2.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Muscle Gain</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-lg-4 col-md-6">
-                    <div class="single-cat text-center mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".6s">
-                        <div class="cat-icon">
-                            <img src="assets/img/gallery/team3.png" alt="">
-                        </div>
-                        <div class="cat-cap">
-                            <h5><a href="services.html">Weight Loss</a></h5>
-                            <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+ 
     <!-- Services End -->
     <!--? About Area-2 Start -->
     <section class="about-area2 fix pb-padding pt-50 pb-80">
@@ -103,7 +65,7 @@
             <div class="right-content2 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s" >
                 <!-- img -->
                 <div class="right-img">
-                    <img src="assets/img/gallery/about.png" alt="">
+                    <img src="img/santha3.jpeg"  alt="">
                 </div>
             </div>
             <div class="left-content2">
@@ -124,46 +86,7 @@
     </section>
     <!-- About Area End -->
     <!--? Blog Area Start -->
-    <section class="home-blog-area pt-10 pb-50">
-        <div class="container">
-            <!-- Section Tittle -->
-            <div class="row justify-content-center">
-                <div class="col-lg-7 col-md-9 col-sm-10">
-                    <div class="section-tittle text-center mb-100 wow fadeInUp" data-wow-duration="2s" data-wow-delay=".2s">
-                        <h2>From Blog</h2>
-                    </div>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="home-blog-single mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".2s">
-                        <div class="blog-img-cap">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/blog1.png" alt="">
-                            </div>
-                            <div class="blog-cap">
-                                <span>Gym & Fitness</span>
-                                <h3><a href="blog_details.html">Your Antibiotic One Day To 10 Day Options</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-xl-6 col-lg-6 col-md-6">
-                    <div class="home-blog-single mb-30 wow fadeInUp" data-wow-duration="1s" data-wow-delay=".4s">
-                        <div class="blog-img-cap">
-                            <div class="blog-img">
-                                <img src="assets/img/gallery/blog2.png" alt="">
-                            </div>
-                            <div class="blog-cap">
-                                <span>Gym & Fitness</span>
-                                <h3><a href="blog_details.html">Your Antibiotic One Day To 10 Day Options</a></h3>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </section>
+   
     <!-- Blog Area End -->
     <!--? video_start -->
     <div class="video-area section-bg2 d-flex align-items-center"  data-background="assets/img/gallery/video-bg.png">
@@ -187,7 +110,7 @@
                         </div>
                         <div class="features-caption">
                             <h3>Location</h3>
-                            <p>You’ll look at graphs and charts in Task One, how to approach </p>
+                            <p>Cuddalore</p>
                         </div>
                     </div>
                 </div>
@@ -198,8 +121,8 @@
                         </div>
                         <div class="features-caption">
                             <h3>Phone</h3>
-                            <p>(90) 277 278 2566</p>
-                            <p>  (78) 267 256 2578</p>
+                            <p>+91 9944533197</p>
+                            <p>+91 9894966055</p>
                         </div>
                     </div>
                 </div>
@@ -210,9 +133,7 @@
                         </div>
                         <div class="features-caption">
                             <h3>Email</h3>
-                            <p>TuitionsTonight@gmail.com</p>
-                            <p>tutifyy@gmail.com</p>
-                            
+                            <p>Santha@gmail.com</p>
                         </div>
                     </div>
                 </div>
