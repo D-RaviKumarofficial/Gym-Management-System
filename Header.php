@@ -17,11 +17,11 @@
                                     <li><a href="courses.php">Courses</a></li>
                                     <li><a href="pricing.php">Pricing</a></li>
                                     <li><a href="gallery.php">Gallery</a></li>
-                                    <li><a href="blog.php">Blog</a>
+                                    <li><a href="blog.php">Product</a>
                                         <ul class="submenu">
-                                            <li><a href="blog.php">Blog</a></li>
-                                            <li><a href="blog_details.php">Blog Details</a></li>
-                                            <li><a href="elements.php">Elements</a></li>
+                                            <li><a href="blog.php">Product Details</a></li>
+                                            <li><a href="blog_details.php">Members info</a></li>
+                                            <li><a href="elements.php">classes</a></li>
                                         </ul>
                                     </li>
                                     <li><a href="contact.php">Contact</a></li>

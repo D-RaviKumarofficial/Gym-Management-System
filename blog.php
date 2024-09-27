@@ -46,7 +46,7 @@
                 <div class="row">
                     <div class="col-xl-12">
                         <div class="hero-cap hero-cap2 pt-70">
-                            <h2>Blog</h2>
+                            <h2>Product</h2>
                         </div>
                     </div>
                 </div>
