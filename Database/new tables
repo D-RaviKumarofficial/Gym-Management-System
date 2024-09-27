@@ -1,0 +1,9 @@
+CREATE TABLE user_data (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    name VARCHAR(100) NOT NULL,
+    age INT NOT NULL,
+    height DECIMAL(5, 2) NOT NULL,  -- For height, e.g., 170.50 cm
+    weight DECIMAL(5, 2) NOT NULL,  -- For weight, e.g., 65.25 kg
+    category VARCHAR(50) NOT NULL,
+    blood_group VARCHAR(10) NOT NULL
+);

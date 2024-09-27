@@ -73,7 +73,7 @@
                             <img src="img/body building.jpeg" width=400 height=300 alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Body Building</a></h5>
+                            <h5><a href="course_reg.php">Body Building</a></h5>
                             <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
                         </div>
                     </div>
@@ -84,7 +84,7 @@
                             <img src="assets/img/gallery/team1.png" alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Muscle Gain</a></h5>
+                            <h5><a href="course_reg.php">Muscle Gain</a></h5>
                             <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
                         </div>
                     </div>
@@ -95,7 +95,7 @@
                             <img src="img/loss.jpeg" width=400 height=300 alt="">
                         </div>
                         <div class="cat-cap">
-                            <h5><a href="services.html">Weight Loss</a></h5>
+                            <h5><a href="course_reg.php">Weight Loss</a></h5>
                             <p>You’ll look at graphs and charts in Task One, how to approach the task </p>
                         </div>
                     </div>
