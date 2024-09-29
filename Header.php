@@ -19,8 +19,8 @@
                                     <li><a href="gallery.php">Gallery</a></li>
                                     <li><a href="blog.php">Product</a>
                                         <ul class="submenu">
-                                            <li><a href="blog.php">Product Details</a></li>
-                                            <li><a href="blog_details.php">Members info</a></li>
+                                            <li><a href="product.php">Product Details</a></li>
+                                            <li><a href="members_info.php">Members info</a></li>
                                             <li><a href="elements.php">classes</a></li>
                                         </ul>
                                     </li>
