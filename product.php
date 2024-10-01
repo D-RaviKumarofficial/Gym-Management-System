@@ -22,16 +22,22 @@
                             <?php
                             // Sample static products with images
                             $products = [
-                                ["id" => 1, "name" => "Product 1", "price" => 100, "image" => "img/body building.jpeg"],
-                                ["id" => 2, "name" => "Product 2", "price" => 200, "image" => "img/body building.jpeg"],
-                                ["id" => 3, "name" => "Product 3", "price" => 300, "image" => "img/body building.jpeg"],
-                                ["id" => 4, "name" => "Product 4", "price" => 400, "image" => "img/body building.jpeg"],
-                                ["id" => 5, "name" => "Product 5", "price" => 500, "image" => "img/body building.jpeg"],
-                                ["id" => 6, "name" => "Product 6", "price" => 600, "image" => "img/body building.jpeg"],
-                                ["id" => 7, "name" => "Product 7", "price" => 700, "image" => "img/body building.jpeg"],
-                                ["id" => 8, "name" => "Product 8", "price" => 800, "image" => "img/body building.jpeg"],
-                                ["id" => 9, "name" => "Product 9", "price" => 900, "image" => "img/body building.jpeg"],
-                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/body building.jpeg"],
+                                ["id" => 1, "name" => "Product 1", "price" => 100, "image" => "img/pro1.jpg"],
+                                ["id" => 2, "name" => "Product 2", "price" => 200, "image" => "img/pro2.jpg"],
+                                ["id" => 3, "name" => "Product 3", "price" => 300, "image" => "img/pro3.jpg"],
+                                ["id" => 4, "name" => "Product 4", "price" => 400, "image" => "img/pro4.jpg"],
+                                ["id" => 5, "name" => "Product 5", "price" => 500, "image" => "img/pro5.jpg"],
+                                ["id" => 6, "name" => "Product 6", "price" => 600, "image" => "img/pro6.jpg"],
+                                ["id" => 7, "name" => "Product 7", "price" => 700, "image" => "img/pro7.jpg"],
+                                ["id" => 8, "name" => "Product 8", "price" => 800, "image" => "img/pro8.jpg"],
+                                ["id" => 9, "name" => "Product 9", "price" => 900, "image" => "img/pro9.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro10.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro11.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro12.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro13.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro14.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro15.jpg"],
+                                ["id" => 10, "name" => "Product 10", "price" => 1000, "image" => "img/pro16.jpg"],
                             ];
 
                             foreach ($products as $product) {
