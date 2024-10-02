@@ -35,11 +35,14 @@ if (isset($_REQUEST["submit"])) {
       <li class="nav-item active">
         <a class="nav-link" href="#">Gym Mananagement System</a>
       </li>
-      <li class="nav-item">
+      <!-- <li class="nav-item">
         <a class="nav-link" href="coach.php">Coach</a>
+      </li> -->
+      <li class="nav-item">
+        <a class="nav-link" href="orders_view.php">Orders_view</a>
       </li>
       <li class="nav-item">
-        <a class="nav-link" href="members.php">Members</a>
+        <a class="nav-link" href="members_info.php">Members</a>
       </li>
       <li class="nav-item">
         <a class="nav-link disabled" href="membership.php">Membership</a>

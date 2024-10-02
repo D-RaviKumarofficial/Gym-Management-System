@@ -47,8 +47,7 @@
                                 echo '<div class="card-body">';
                                 echo '<h5 class="card-title">' . htmlspecialchars($product['name']) . '</h5>';
                                 echo '<p class="card-text">Price: $' . htmlspecialchars($product['price']) . '</p>';
-                                echo '<form action="" method="POST">';
-                                echo '<input type="hidden" name="product_id" value="' . htmlspecialchars($product['id']) . '">';
+                                echo '<form action="order.php" method="POST">';
                                 echo '<input type="hidden" name="product_name" value="' . htmlspecialchars($product['name']) . '">';
                                 echo '<input type="hidden" name="product_price" value="' . htmlspecialchars($product['price']) . '">';
                                 echo '<button type="submit" class="btn btn-primary">Order</button>';

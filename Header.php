@@ -21,7 +21,7 @@
                                         <ul class="submenu">
                                             <li><a href="product.php">Product Details</a></li>
                                             <li><a href="members_info.php">Members info</a></li>
-                                            <li><a href="elements.php">classes</a></li>
+                                            <!-- <li><a href="elements.php">classes</a></li> -->
                                         </ul>
                                     </li>
                                     <li><a href="contact.php">Contact</a></li>
